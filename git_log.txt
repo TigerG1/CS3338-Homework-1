@@ -1,0 +1,92 @@
+commit 96a99c7f8ea65ae184565d28ac2692e767c53fb1
+Author: Andy <152557785+TigerG1@users.noreply.github.com>
+Date:   Sun Feb 15 13:54:01 2026 -0800
+
+    Update index.html
+
+commit 6fea6a5dcac681f85d9bff31281a62d3fddcf850
+Merge: f37cdce 7042f5d
+Author: Andy <152557785+TigerG1@users.noreply.github.com>
+Date:   Fri Feb 13 18:31:24 2026 -0500
+
+    Merge pull request #1 from TigerG1/feature-about-me
+    
+    Feature about me
+
+commit 7042f5d4b63f0485469b3225f787e3acc40ce471
+Merge: f1d77b5 f37cdce
+Author: Andy <152557785+TigerG1@users.noreply.github.com>
+Date:   Fri Feb 13 18:31:10 2026 -0500
+
+    Merge branch 'main' into feature-about-me
+
+commit f1d77b5357103f2174bc9ce1337595bc9ede7b58
+Author: Andy <152557785+TigerG1@users.noreply.github.com>
+Date:   Fri Feb 13 15:27:12 2026 -0800
+
+    Update index.html
+    
+    Made some changes to add a bit about myself
+
+commit 9f49b8bb19bb77f3aad0982b8d8794d45fc8e349
+Merge: f37cdce fa35f37
+Author: Remlap1 <cpalme14@calstatela.edu>
+Date:   Fri Feb 13 13:10:02 2026 -0800
+
+    Merge pull request #1 from Remlap1/feature-about-me
+    
+    Feature about me merge with main
+
+commit fa35f370c42dce85d2755f6aa4ca42018f2ae251
+Merge: 8e605d6 f37cdce
+Author: Remlap1 <cpalme14@calstatela.edu>
+Date:   Fri Feb 13 13:08:14 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 8e605d626a4b67f8a8fd101d2246936261d4a7f2
+Author: Remlap1 <cpalme14@calstatela.edu>
+Date:   Fri Feb 13 12:57:37 2026 -0800
+
+    Update to index
+    
+    Updated with my info
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
